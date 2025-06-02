@@ -9,7 +9,9 @@ Please ⭐️ this repo and share it with others
 ## Screenshots
 |                Scientific / Dark                | Standard / Colored |
 :------------------------------------------------:|:-------------------|
- ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
+ ![Dark calculator screenshot](![scientific-dark](https://github.com/user-attachments/assets/0998ad0c-6de5-45d8-895b-55245ce82d42)
+) | ![Colored calculator screenshot](![standard-light](https://github.com/user-attachments/assets/4d1fecde-84b9-490b-97e9-d05701c3989d)
+)
 
 ## Requirements 🔧
 * Java 11 or higher.
