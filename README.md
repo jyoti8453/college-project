@@ -8,9 +8,10 @@ Please ⭐️ this repo and share it with others
 
 ## Screenshots
 |                Scientific / Dark                | Standard / Colored |
-:------------------------------------------------:|:-------------------|
-(https://github.com/user-attachments/assets/0998ad0c-6de5-45d8-895b-55245ce82d42)
- (https://github.com/user-attachments/assets/4d1fecde-84b9-490b-97e9-d05701c3989d)
+:-![scientific-dark](https://github.com/user-attachments/assets/ebe11914-b3d2-41b8-826e-6778a7a39c3a)
+--------------------![standard-light](https://github.com/user-attachments/assets/e954fd19-d791-420d-ac98-95a9021b15ad)
+---------------------------:|:-------------------|
+
 
 ## Requirements 🔧
 * Java 11 or higher.
